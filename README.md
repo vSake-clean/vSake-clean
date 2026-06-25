@@ -17,4 +17,4 @@
 ---
 
 ### 💬 Connect With Me
-* 🎮 **Discord:** `TWÓJ_NICK_NA_DISCORDZIE`
+* 🎮 **Discord:** `vsejk_`
