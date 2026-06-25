@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm vSake
 
-<!--
-**vSake-clean/vSake-clean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ **Low-Level Developer & Cybersecurity Enthusiast**  
+*Exploring the depths of systems, security, and compilers.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+* 💻 **Compiler Dev:** Building my own custom **programming language** written entirely in **C**.
+* 🛡️ **Cybersec:** Diving into OS internals and systems security on **Linux**.
+
+### 🛠️ Tech & Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 💬 Connect With Me
+* 🎮 **Discord:** `TWÓJ_NICK_NA_DISCORDZIE`
