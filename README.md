@@ -4,12 +4,26 @@ I write low-level stuff on Linux and like digging into how systems work under th
 
 Right now I'm working on **[Fih](https://github.com/vSake-clean/Fih)**, my own programming language. The interpreter and compiler are written in plain x86-64 assembly (NASM), with no libc.
 
-Other things I've made:
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,py,kotlin,qt,bash,linux,debian,git,vim&theme=dark" alt="C, C++, TypeScript, Python, Kotlin, Qt, Bash, Linux, Debian, Git, Vim" />
+</p>
 
-- **[LunarDraw](https://github.com/vSake-clean/LunarDraw)**: a 2D drawing app (C++17, GTK3, Cairo) with layers and its own `.lunar` project format
-- **[LuminaView](https://github.com/vSake-clean/LuminaView)**: a fast Qt5 image viewer with smooth zoom, GIF/SVG support, all in one file
-- **Vencord plugins**: [StatusCycler](https://github.com/vSake-clean/StatusCycler), [AutoReply](https://github.com/vSake-clean/vencord-AutoReply), [StickyNotes](https://github.com/vSake-clean/vencord-StickyNotes)
+### projects
 
-Things I use: C, C++, x86-64 asm, TypeScript, a bit of Python and Kotlin.
+<p>
+  <a href="https://github.com/vSake-clean/Fih"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vSake-clean&repo=Fih&theme=tokyonight&hide_border=true" alt="Fih" /></a>
+  <a href="https://github.com/vSake-clean/LunarDraw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vSake-clean&repo=LunarDraw&theme=tokyonight&hide_border=true" alt="LunarDraw" /></a>
+  <a href="https://github.com/vSake-clean/LuminaView"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vSake-clean&repo=LuminaView&theme=tokyonight&hide_border=true" alt="LuminaView" /></a>
+  <a href="https://github.com/vSake-clean/StatusCycler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vSake-clean&repo=StatusCycler&theme=tokyonight&hide_border=true" alt="StatusCycler" /></a>
+</p>
+
+I also made a few more Vencord plugins: [AutoReply](https://github.com/vSake-clean/vencord-AutoReply) and [StickyNotes](https://github.com/vSake-clean/vencord-StickyNotes).
+
+### stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vSake-clean&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=vSake-clean&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+</p>
 
 Discord: `vsejk_`
