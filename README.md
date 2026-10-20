@@ -1,20 +1,15 @@
-## Hi there 👋 I'm vSake
+### hi, I'm vSake
 
-🛡️ **Low-Level Developer & Cybersecurity Enthusiast**  
-*Exploring the depths of systems, security, and compilers.*
+I write low-level stuff on Linux and like digging into how systems work under the hood, especially from the security side.
 
----
+Right now I'm working on **[Fih](https://github.com/vSake-clean/Fih)**, my own programming language. The interpreter and compiler are written in plain x86-64 assembly (NASM), with no libc.
 
-### 🚀 What I'm Up To
-* 💻 **Compiler Dev:** Building my own custom **programming language** written entirely in **C**.
-* 🛡️ **Cybersec:** Diving into OS internals and systems security on **Linux**.
+Other things I've made:
 
-### 🛠️ Tech & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- **[LunarDraw](https://github.com/vSake-clean/LunarDraw)**: a 2D drawing app (C++17, GTK3, Cairo) with layers and its own `.lunar` project format
+- **[LuminaView](https://github.com/vSake-clean/LuminaView)**: a fast Qt5 image viewer with smooth zoom, GIF/SVG support, all in one file
+- **Vencord plugins**: [StatusCycler](https://github.com/vSake-clean/StatusCycler), [AutoReply](https://github.com/vSake-clean/vencord-AutoReply), [StickyNotes](https://github.com/vSake-clean/vencord-StickyNotes)
 
----
+Things I use: C, C++, x86-64 asm, TypeScript, a bit of Python and Kotlin.
 
-### 💬 Connect With Me
-* 🎮 **Discord:** `vsejk_`
+Discord: `vsejk_`
