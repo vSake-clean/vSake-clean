@@ -15,9 +15,10 @@ Right now I'm working on **[Fih](https://github.com/vSake-clean/Fih)**, my own p
   <a href="https://github.com/vSake-clean/LunarDraw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vSake-clean&repo=LunarDraw&theme=tokyonight&hide_border=true" alt="LunarDraw" /></a>
   <a href="https://github.com/vSake-clean/LuminaView"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vSake-clean&repo=LuminaView&theme=tokyonight&hide_border=true" alt="LuminaView" /></a>
   <a href="https://github.com/vSake-clean/StatusCycler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vSake-clean&repo=StatusCycler&theme=tokyonight&hide_border=true" alt="StatusCycler" /></a>
+  <a href="https://github.com/vSake-clean/Szept"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vSake-clean&repo=Szept&theme=tokyonight&hide_border=true" alt="Szept" /></a>
 </p>
 
-I also made a few more Vencord plugins: [AutoReply](https://github.com/vSake-clean/vencord-AutoReply) and [StickyNotes](https://github.com/vSake-clean/vencord-StickyNotes).
+I also made a few more Vencord plugins: [AutoReply](https://github.com/vSake-clean/vencord-AutoReply), [StickyNotes](https://github.com/vSake-clean/vencord-StickyNotes) and [FriendGroups](https://github.com/vSake-clean/vencord-friendgroups).
 
 ### stats
 
